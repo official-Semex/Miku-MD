@@ -7,6 +7,8 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+RUN npm install --location=global npm@8.13.2 
+
 
 COPY package.json .
 
