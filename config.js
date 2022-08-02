@@ -8,14 +8,14 @@ global.antitags = true
 
 
 global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.OwnerNumber = ['263716564623']
+global.ownertag = ['263716564623']
+global.BotName = "Elaina"
+global.packname = "Elaina bot"
+global.author = "By: Lord Savage"
+global.OwnerName = "Savage"
+global.BotSourceCode = "https://github.com/Savagee/Miku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/BQ0vrEPOfb20UZ6s9Guhfj"
 global.sessionName = "session"
 global.prefa = ['-']
 global.location = "West Bengal, India"
