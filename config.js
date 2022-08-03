@@ -13,7 +13,7 @@ global.ownertag = ['263716564623']
 global.BotName = "Elaina"
 global.packname = "Elaina bot"
 global.author = "By: Lord Savage"
-global.OwnerName = "Savage"
+global.OwnerName = "Lord Savage"
 global.BotSourceCode = "https://github.com/Savagee/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/BQ0vrEPOfb20UZ6s9Guhfj"
 global.sessionName = "session"
@@ -22,7 +22,7 @@ global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/union-savage"
 global.lolhuman = "KaysaS"
 
 
